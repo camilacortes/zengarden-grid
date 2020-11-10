@@ -293,7 +293,7 @@ i {
     /* height: 100%;
     width: 100%; */
     grid-template-columns: repeat(9, 1fr);
-    grid-template-rows: 250px 100px 700px 700px 643px 300px 150px 500px 500px;
+    grid-template-rows: 250px 100px 560px 580px 560px 200px 150px 500px 500px;
   }
 
   .header {
@@ -343,7 +343,7 @@ i {
   .footnote {
     grid-column: 1/-1;
     grid-row: 6/9;
-
+    /* this is the footnote picture height */
     height: 300px;
   }
 
